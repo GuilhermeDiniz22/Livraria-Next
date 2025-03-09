@@ -1,2 +1,2 @@
-# NEXT-BLOG
-blog feito com next js 
+# NEXT-LIVRARIA
+livraria feito com next js 
